@@ -1,5 +1,8 @@
 # ライブ記録アプリ（仮称）
 
+## ER図
+[![Image from Gyazo](https://i.gyazo.com/b7c4ab205c128e5fc59380dfcd8fef22.png)](https://gyazo.com/b7c4ab205c128e5fc59380dfcd8fef22)
+
 ## 画面遷移図
 Figma：
 https://www.figma.com/design/BRckQx6moojgMiKfRMF1mZ/%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C?node-id=0-1&t=CUXWU4gPTfWsuPLc-1
